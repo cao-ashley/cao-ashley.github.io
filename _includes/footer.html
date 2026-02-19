@@ -2,7 +2,7 @@
   <div class="row">
     <div class="col-md-6 text-end social-media-icons">
       {% for item in site.data.settings.social %}
-        {% if item.icon == "google-scholar %}
+        {% if item.icon == "google-scholar" %}
           <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fa-brands fa-{{ item.icon }}"></i></a>
         {% else %}
           <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
