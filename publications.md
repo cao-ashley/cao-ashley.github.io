@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: pages
 title: ""
 ---
 
@@ -15,13 +15,13 @@ title: ""
 
 ## Conference Presentations
 
-# Oral Presentations
+### Oral Presentations
 
 1. **Cao, A.J.**, Gerlein-Safdi, C., Berkelhammer, M., Wang, L., 2025. Incorporating Canopy Structure into Process-Based Modeling of Dew Deposition. AGU Fall Meeting 2025, New Orleans, LA, USA. (B13E-09)
 
 2. **Cao, A.J.**, Gerlein-Safdi, C., Berkelhammer, M., Wang, L., 2024. Modeling the Effects of Dew Deposition on Ecosystem Function across an Aridity Gradient. AGU Fall Meeting 2024, Washington, D.C., USA. (H41C-02)
 
-# Poster Presentations
+### Poster Presentations
 
 1. **Cao, A.J.**, Gerlein-Safdi, C., Berkelhammer, M., Wang, L., 2024. Modeling Canopy-Resolved Dew Deposition. AGU WaterSciCon 2024, St. Paul, MN, USA. (217-136)
 
