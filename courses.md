@@ -1,4 +1,6 @@
 ---
-layout: courses
-title: "Courses"
+layout: pages
+title: "Projects"
 ---
+
+Test
