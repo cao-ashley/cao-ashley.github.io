@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-## Welcome!
+### Hello!
 
 I'm a 3rd year PhD student in the department of Environmental Engineering at the University of California, Berkeley. I work as part of the [Water & Carbon Lab](https://sites.google.com/berkeley.edu/gerlein-safdi/) under Cynthia Gerlein-Safdi. 
 
