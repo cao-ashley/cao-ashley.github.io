@@ -3,9 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Hello!
-
-I am a 3rd year PhD student in the department of Environmental Engineering at the University of California, Berkeley. I work as part of the [Water & Carbon Lab](https://sites.google.com/berkeley.edu/gerlein-safdi/) under Cynthia Gerlein-Safdi. 
+Hello! I am a 3rd year PhD student in the department of Environmental Engineering at the University of California, Berkeley. I work as part of the [Water & Carbon Lab](https://sites.google.com/berkeley.edu/gerlein-safdi/) under Cynthia Gerlein-Safdi. 
 
 My work is interested in the impacts of dew on ecosystem function as mediated through vegetation, and I study these complex interactions between dew and plants primarily through process-based modeling, remote sensing, and laboratory experiments.
 
