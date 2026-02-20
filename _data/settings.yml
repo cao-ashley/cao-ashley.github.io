@@ -3,7 +3,7 @@ menu:
 - {name: 'projects', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'gallery', url: '/people'}
-- {name: 'about', url: '/home'}
+- {name: 'about', url: '/'}
 #- {name: 'contact', url: '/contact'}
 
 people:
