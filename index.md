@@ -12,4 +12,4 @@ The chapters of my dissertation are as follows:
 2. Whole-canopy quantification of dew deposition using paired GNSS sensors
 3. Historical and projected global dew trends on vegetation
 
-Feel free to contact me by email at ajcao@berkeley.edu or ajcao@lbl.gov. 
+Feel free to contact me by email at [ajcao@berkeley.edu](mailto:ajcao@berkeley.edu) or [ajcao@lbl.gov](mailto:ajcao@lbl.gov). 
