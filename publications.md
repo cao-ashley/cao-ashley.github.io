@@ -23,7 +23,7 @@ title: "Publications"
 2. **Cao, A.J.**, Gerlein-Safdi, C., Berkelhammer, M., Wang, L., 2024. Modeling the Effects of Dew Deposition on Ecosystem Function across an Aridity Gradient. AGU Fall Meeting 2024, Washington, D.C., USA. (H41C-02)
 
 ##### Poster Presentations
-1. **Cao, A.J.**, Gerlein-Safdi, C., Berkelhammer, M., Wang, L., 2026. Impacts of Dew Deposition on Ecosystem Function across Aridity and Ecosystem Type. Fog and Dew Conference 2026, Pune, Maharashtra, India. 
+1. **Cao, A.J.**, Gerlein-Safdi, C., Berkelhammer, M., Wang, L., 2026. Impacts of Dew Deposition on Ecosystem Function across Aridity and Ecosystem Type. Fog and Dew Conference 2026, Pune, Maharashtra, India.
 
 2. **Cao, A.J.**, Gerlein-Safdi, C., Berkelhammer, M., Wang, L., 2024. Modeling Canopy-Resolved Dew Deposition. AGU WaterSciCon 2024, St. Paul, MN, USA. (217-136)
 
